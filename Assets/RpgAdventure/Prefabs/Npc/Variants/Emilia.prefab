@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3138270772129291656
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.welcomeText
+      value: Hey Stranger, What brings you here?
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[0].text
+      value: I am looking for a job.
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[1].text
+      value: None of your business
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[2].text
+      value: Goodbye!
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[0].answer.text
+      value: There are bandits north of the town, causing a lot of trouble to the
+        people, can you take care of it?
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[1].answer.text
+      value: Get lost!
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[2].answer.text
+      value: Cya!
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[2].isAlwaysAsked
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[0].answer.questId
+      value: q-1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[1].answer.forceDialogueQuit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3756714229790549132, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: dialogue.queries.Array.data[2].answer.forceDialogueQuit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -19.864481
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7256594
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.4541383
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956234811147310459, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4962248199741664177, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+      propertyPath: m_Name
+      value: Emilia
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+--- !u!1 &8020931627438683705 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4962248199741664177, guid: 00be6ef91dd6bb046b78e21c024f67a7, type: 3}
+  m_PrefabInstance: {fileID: 3138270772129291656}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-8759056017203792761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8020931627438683705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175805f01b2e0654da3c758c1a81a5b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Uid: b9029291-3730-427a-9c71-b45adfc1ed76

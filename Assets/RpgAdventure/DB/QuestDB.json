@@ -1,0 +1,37 @@
+[
+    {
+        "uid": "q-1",
+        "title": "Annoying Bandits!",
+        "description": "Defeat two Bandits located south of camp",
+        "experience": 100,
+        "gold": 5,
+        "amount": 2,
+        "targets": ["7781b839-1c7e-48d9-9b6d-241125e67f0f",
+                    "9db96cf0-f66c-43d5-a755-158e4546c09a"],
+        "talkTo": null,
+        "explore": null,
+        "questGiver": "b9029291-3730-427a-9c71-b45adfc1ed76",
+        "type": 0
+
+    },
+    {
+        "uid": "q-2",
+        "title": "Defeat Bandit Leader!",
+        "description": "Defeat Bandit Leader located north of the camp",
+        "experience": 200,
+        "gold": 15,
+        "amount": 1,
+        "targets": ["9db96cf0-f66c-43d5-a755-158e4546c09a"],
+        "talkTo": null,
+        "explore": null,
+        "questGiver": "2d310e1c-2e77-4aee-81fc-a3462d470488",
+        "type": 0
+
+    }
+]
+
+
+
+
+
+
